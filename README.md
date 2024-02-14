@@ -21,7 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/zbanq81" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zbanq81" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/[abuzar deshmukh (tech-byte) -](https://www.linkedin.com/in/abuzar-deshmukh-8b8598285/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abuzar deshmukh (tech-byte) -" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abuzar-deshmukh-8b8598285/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abuzar deshmukh (tech-byte) -" height="30" width="40" /></a>
 <a href="https://instagram.com/ar.k5a3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ar.k5a3" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/abuzardesh4hqp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="abuzardesh4hqp" height="30" width="40" /></a>
 </p>
