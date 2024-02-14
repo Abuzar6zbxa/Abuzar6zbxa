@@ -1,8 +1,8 @@
 ![logo](https://github.com/Abuzar6zbxa/Abuzar6zbxa/blob/main/7-python-code-examples-for-everyday-use-1200x350-c-default.jpg)
 
 
-<h1 align="center">Hi 👋, I'm Abuzar Deshmukh</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />, I'm Abuzar Deshmukh </h1>
+<h3 align="center">Python and Data Science enthusiast</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
