@@ -34,3 +34,26 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abuzar6zbxa&show_icons=true&locale=en" alt="abuzar6zbxa" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abuzar6zbxa&" alt="abuzar6zbxa" /></p>
+
+
+
+![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
+
+
+<img src="https://widgetbite.com/stats/{random-guid}" alt="watching_count" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
