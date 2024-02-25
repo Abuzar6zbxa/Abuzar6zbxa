@@ -6,7 +6,7 @@
 </h1>
 <h3 align="center">Python and Data Science enthusiast</h3>
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abuzar6zbxa&label=Profile%20views&color=0e75b6&style=flat" alt="abuzar6zbxa" /> </p>
 
