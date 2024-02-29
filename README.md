@@ -10,17 +10,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abuzar6zbxa&label=Profile%20views&color=0e75b6&style=flat" alt="abuzar6zbxa" /> </p>
 
-- 🔭 I’m currently working on **open-source.**
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Dizzy.webp" alt="Dizzy" width="25" height="25" /> About Me:
 
-- 🌱 I’m currently doing **Btech in CSE.**
 
-- 👯 I’m looking to collaborate on **Python-related work.**
 
-- 🤝 I’m looking for help with **java.**
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Telescope.webp" alt="Telescope" width="25" height="25" /> I’m currently working on **open-source.**
 
-- 💬 Ask me about **Python and SQL.**
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Technologist.webp" alt="Technologist" width="25" height="25" /> I’m currently doing **Btech in CSE.**
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Leftwards%20Hand.webp" alt="Leftwards Hand" width="25" height="25" /> I’m looking to collaborate on **Python-related work.**
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Handshake.webp" alt="Handshake" width="25" height="25" /> I’m looking for help with **java.**
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Technologist.webp" alt="Technologist" width="25" height="25" /> Ask me about **Python and SQL.**
   
-- 📫 How to reach me abuzardeshmukh2005@gmail.com
+🛫 How to reach me abuzardeshmukh2005@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -51,7 +55,8 @@
 <img src="https://raw.githubusercontent.com/Nitish08in/Nitish08in/output/snake.svg" alt="Snake animation" />
 
 
-
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Writing%20Hand.webp" alt="Writing Hand" width="25" height="25" /> Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
 
